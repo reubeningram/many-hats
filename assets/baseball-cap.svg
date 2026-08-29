@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+<title id="title">Many Hats baseball cap</title><desc id="desc">A red baseball cap with a gold brim and Many Hats monogram.</desc>
+<defs><linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d51a21"/><stop offset="1" stop-color="#93080e"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd34f"/><stop offset="1" stop-color="#d89613"/></linearGradient></defs>
+<ellipse cx="322" cy="354" rx="245" ry="30" fill="#071525" opacity=".28"/>
+<path d="M115 245c5-93 72-163 191-176 112-12 199 34 221 120l-21 78c-69 35-150 47-237 39-59-6-108-21-154-61z" fill="url(#red)" stroke="#4b0a0c" stroke-width="10"/>
+<path d="M112 245c63 42 140 63 232 63 73 0 139-14 184-40-11 34-42 57-94 70-112 28-241 13-322-42-17-12-19-32 0-51z" fill="url(#gold)" stroke="#6d3f0a" stroke-width="9"/>
+<path d="M146 252c65 34 133 49 202 49 66 0 121-10 170-30-35 34-96 52-171 53-79 0-150-19-201-52z" fill="#b30f16" opacity=".92"/>
+<path d="M143 234c31-89 91-130 171-139 87-10 155 18 190 81-41-39-96-57-162-55-87 2-151 40-199 113z" fill="#c3131a" opacity=".55"/>
+<path d="M289 118c4 57 3 104-4 141" stroke="#78080d" stroke-width="9" fill="none" opacity=".65"/>
+<text x="318" y="222" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="94" fill="#fff4e5" stroke="#071525" stroke-width="10" paint-order="stroke">MH</text>
+<path d="M220 323c38 9 80 14 124 14 52 0 96-7 136-19" stroke="#ffe06a" stroke-width="8" fill="none" opacity=".85"/>
+</svg>

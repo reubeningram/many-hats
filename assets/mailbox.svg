@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620" role="img" aria-labelledby="title desc">
+<title id="title">Many Hats mailbox</title><desc id="desc">A red rural mailbox with a gold Many Hats monogram and raised flag.</desc>
+<defs><linearGradient id="mailred" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d71920"/><stop offset="1" stop-color="#90080e"/></linearGradient><linearGradient id="post" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9b6a2d"/><stop offset=".5" stop-color="#c49148"/><stop offset="1" stop-color="#76501f"/></linearGradient></defs>
+<ellipse cx="258" cy="570" rx="150" ry="25" fill="#071525" opacity=".24"/>
+<rect x="236" y="330" width="55" height="232" rx="12" fill="url(#post)" stroke="#553b18" stroke-width="7"/>
+<path d="M87 332V206c0-87 62-139 166-139h70c63 0 110 51 110 113v152H87z" fill="url(#mailred)" stroke="#4b0a0c" stroke-width="10"/>
+<path d="M87 332h346v25H87z" fill="#7e080d" opacity=".7"/>
+<path d="M87 205h346c0-70-43-113-110-113h-70c-104 0-166 52-166 113z" fill="#c3131a" opacity=".4"/>
+<rect x="124" y="205" width="285" height="16" rx="8" fill="#ef3238" opacity=".55"/>
+<text x="262" y="260" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="74" fill="#fff4e5" stroke="#071525" stroke-width="8" paint-order="stroke">MH</text>
+<rect x="105" y="356" width="310" height="28" rx="14" fill="#f5c542" stroke="#70450b" stroke-width="6"/>
+<path d="M413 128v-77" stroke="#d6a52e" stroke-width="12"/><path d="M407 55h82v57h-82z" fill="#f5c542" stroke="#70450b" stroke-width="6"/>
+<circle cx="413" cy="128" r="14" fill="#f5c542" stroke="#70450b" stroke-width="6"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 600" role="img" aria-labelledby="title desc">
+<title id="title">Many Hats app preview</title><desc id="desc">A smartphone displaying colorful Many Hats app cards.</desc>
+<defs><linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f1e7"/><stop offset="1" stop-color="#eadfce"/></linearGradient></defs>
+<rect x="25" y="5" width="310" height="590" rx="44" fill="#02060b" stroke="#182638" stroke-width="8"/>
+<rect x="42" y="22" width="276" height="556" rx="32" fill="url(#screen)"/>
+<rect x="132" y="28" width="96" height="20" rx="10" fill="#02060b"/>
+<text x="65" y="82" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="900" fill="#b30f16">MANY HATS</text>
+<text x="65" y="105" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#596273">APPS. GAMES. EXPERIENCES.</text>
+<rect x="62" y="132" width="236" height="150" rx="22" fill="#d98b18"/>
+<circle cx="180" cy="207" r="48" fill="#fff" opacity=".9"/>
+<text x="180" y="221" text-anchor="middle" font-family="Arial" font-size="48">📖</text>
+<text x="62" y="315" font-family="Arial" font-size="11" font-weight="900" fill="#b30f16">NEARLY READY</text>
+<text x="62" y="341" font-family="Arial" font-size="24" font-weight="900" fill="#101827">That's in the</text>
+<text x="62" y="368" font-family="Arial" font-size="24" font-weight="900" fill="#101827">Bible?</text>
+<rect x="62" y="396" width="236" height="1" fill="#c9c0b4"/>
+<text x="62" y="426" font-family="Arial" font-size="13" fill="#596273">Discover the Bible roots</text>
+<text x="62" y="447" font-family="Arial" font-size="13" fill="#596273">behind everyday expressions.</text>
+<rect x="62" y="478" width="110" height="38" rx="19" fill="#b30f16"/>
+<text x="117" y="503" text-anchor="middle" font-family="Arial" font-size="12" font-weight="900" fill="#fff">EXPLORE →</text>
+</svg>
